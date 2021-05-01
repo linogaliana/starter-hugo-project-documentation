@@ -25,7 +25,7 @@ enableGitInfo = true
 # from techdoc: enableInlineShortcodes = true
 
 # Default language to use (if you setup multilingual support)
-defaultContentLanguage = "fr"
+defaultContentLanguage = "en"
 # from techdoc: languageCode = "fr-fr"
 hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = false
